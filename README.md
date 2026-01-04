@@ -1,6 +1,6 @@
 ## Hello 👋
 
-**Im Tomh451!
+Im Tomh451! 👋
 
 Mainly Work On OGFN projects!
 
