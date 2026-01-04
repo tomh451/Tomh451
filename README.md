@@ -5,7 +5,7 @@
 **Mainly Work On OGFN projects!**
 
 - C++ ©️➕➕
-- uhhh idk ⁉️
+- TYPESCRIPT **TS**
 - uhhh idk ⁉️
 - uhhh idk ⁉️
 
